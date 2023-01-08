@@ -1,6 +1,6 @@
 # Ping Host
 
-A handy Python program to ping the host with a URL or IP address. It's time for you to put it to the test!
+A handy Python program to ping the host with a URL/IP address, using the `pythonping` and `tkinter` modules. It's time for you to put it to the test!
 
 ## Prerequisites
 
