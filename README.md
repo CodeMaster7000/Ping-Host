@@ -11,4 +11,6 @@ This can be installed simply with `pip install pythonping`.
 
 ## Implementation
 
-Run `python3 Ping Host.py` in a terminal if you have Python 3.
+Run `python3 Ping Host (GUI).py` in a terminal if you have Python 3.
+
+NOTE: A non-graphical version is also available. This can be run with `python3 Ping Host.py`.
