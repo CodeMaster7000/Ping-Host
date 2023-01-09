@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 0;
+  background: #F0F0F0;
+  font-size: 25px;
+}
+.responded {
+    color: green;
+    transition: color 0.75s ease;
+}
+.checking,
+.unchecked {
+    color:#FF8C00;
+    transition: color 0.75s ease;
+}
+.timeout {
+    color: red;
+    transition: color 0.75s ease;
+}
+#content {
+  background: #E6E6E6;
+  width: 350px;
+  margin: 0;
+  padding: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 0px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 35vh;
+
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
+span {
+  font-family: 'Source Code Pro', monospace;
+}
