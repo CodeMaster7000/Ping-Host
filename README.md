@@ -11,10 +11,10 @@ This can be installed simply with `pip install pythonping`.
 
 ## Implementation
 
-Run `python3 Ping Host (GUI).py` in a terminal if you have Python 3.
+In this GitHub repository, navigate to `Ping Host (Python)`. Then, run `python3 Ping Host (GUI).py` in a terminal if you have Python 3.
 
 NOTE: A non-graphical version is also available. This can be run with `python3 Ping Host.py`.
 
 # Ping Host (HTML, CSS, JS)
 
-An up and running program to ping a host in a network. Code can be found in the `Ping Host (JS)` folder.
+An up and running program to ping a host in a network. Code can be found in the `Ping Host (JS)` folder. Give it a try!
